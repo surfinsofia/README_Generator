@@ -62,7 +62,7 @@ const init = () => {
 
         {
             type: 'input',
-            message: 'Enter your github URL',
+            message: 'Enter your github username',
             name: 'Questions',
 
         },
@@ -70,7 +70,7 @@ const init = () => {
         {
             type: 'input',
             name: 'LinkedIn',
-            message: 'Enter your LinkedIn URL.',
+            message: 'Enter your LinkedIn username',
         },
         {
             type: 'input',
