@@ -18,7 +18,7 @@ const init = () => {
 
         {
             name: "Description",
-            message: "Briefly Describe your Project",
+            message: "Briefly Describe your project",
             type: "input",
         },
 
@@ -39,7 +39,7 @@ const init = () => {
             type: 'list',
             message: 'What is the License for this project?',
             name: 'License',
-            choices: ["one", "two", "three"]
+            choices: ["LicenseTerminalOne", "ThingTwo", "RandomLicense", "Other"]
         },
 
         {
@@ -57,7 +57,7 @@ const init = () => {
 
         {
             type: 'input',
-            message: 'Enter your github username',
+            message: 'Enter your github URL',
             name: 'Questions',
 
         },
@@ -80,7 +80,7 @@ const init = () => {
     ])
         .then(answers => {
             writeToFile(answers)
-            console.log('Success! Your README.md file has been created!')
+            console.log('Success! Your README file has been created!')
         });
 }
 

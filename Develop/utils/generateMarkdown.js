@@ -43,8 +43,11 @@ function generateMarkdown(answers) {
   ${answers.Tests}
 
   ## Questions
-  ${answers.Questions}
-  ${answers.LinkedIn}
+  https://github.com/${answers.Questions}
+  
+  https://www.linkedin.com/in/${answers.LinkedIn}
+  
+  Reach me with questions by email:
   ${answers.Email}
   
   `;
