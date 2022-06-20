@@ -98,8 +98,4 @@ function writeToFile(answers) {
     writeFileAsync('README.md', generateMarkdown(answers))
 }
 
-// TODO: Create a function to initialize app
-
-
-// Function call to initialize app
 init();

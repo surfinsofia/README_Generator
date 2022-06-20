@@ -3,7 +3,7 @@
   Readme Generator
   
   ## Description
-  It creates a readme file
+  This project creates a readme file from the CLI
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -14,19 +14,19 @@
   6. [Questions](#Questions)
 
   ## Installation
-  git clone, run it in the terminal
+  To use this project, git clone, open index.js file on terminal, run node index.js
 
   ## Usage
-  it saves you time
+  This project saves time by creating a custom file for your projects!
 
   ## License
-  APACHE 2.0 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Contributing
-  contributions welcome
+  Contributors welcome
 
   ## Tests
-  git clone project, open index.js on terminal, run node index.js
+  
 
   ## Questions
   https://github.com/surfinsofia
@@ -34,6 +34,6 @@
   https://www.linkedin.com/in/surfinsofia
   
   Reach me with questions by email:
-  myemail123@gmail.com
+  asofiae96@gmail.com
   
   
